@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<!--
+	AIESEC Adventures | @ajlkn	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
+<html>
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+    <title>Dimension by HTML5 UP</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="assets/css/main.css">
+    <script src="https://use.fontawesome.com/1b4cd6e7ca.js"></script>
+    <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css"></noscript>
+  </head>
+  <body style="                  background-image:url('images/east asia.jpg')">
+    <!-- Wrapper -->
+    <div id="wrapper">
+      <!-- Header -->
+      <header id="header">
+        <div class="content">
+          <div class="inner">
+            <h1 style="height: 47px;">AIESEC Adventures(Taiwan)</h1>
+            <p style="margin-top: -18px; height: 26px;"><br>
+            </p>
+            <p style="margin-top: -18px; height: 26px;">WHAT WILL YOUR ADVENTURE
+              BE LIKE?<br>
+            </p>
+          </div>
+        </div>
+      </header>
+      <!-- Nav -->
+      <nav id="nav">
+        <style>
+.dropbtn {
+    padding: 16px;
+    cursor: pointer;
+  	
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+  
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+
+  	display:table-cell; vertical-align:middle}
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+
+}
+</style> <div class="dropdown" style="text-align: center;"> <button class="dropbtn;"
+            style="text-align: center;">Explore</button>
+          <div class="dropdown-content"> <a href="#about">About Us</a> <a href="#rotimi">Rotimi's
+              Story</a> <a href="#katherine">Katherine's Story</a> </div>
+        </div>
+      </nav>
+      <!-- Main -->
+      <div id="main">
+        <!-- Intro -->
+        <article id="about">
+          <h2 class="major">About Us</h2>
+          <span class="image main"><img src="images/temple.jpg"></span>
+          <p><b><i>AIESEC</i></b> is the world’s largest youth-run organization
+            that focuses on leadership development and personal development. We
+            are partnered in 126 countries around the world and we believe that
+            the best way to challenge the youth is through foreign exchange! </p>
+          <p>At <i><b>AIESEC Adventures</b></i>, we aim to Inspire others to
+            develop their leadership by providing future prospective exchange
+            participants with the documented experiences of past exchange
+            participants.</p>
+        </article>
+        <!-- Rotimi -->
+        <article id="rotimi">
+          <h2 class="major">Rotimi's Story</h2>
+          <div style="text-align: center;"><span class="image temple"><img src="images/EastAsia.jpg"></span></div>
+          <p>My Time in Taiwan was filled with nothing but fun times. Teaching
+            English at Xipu Elementary school in Tainan, Taiwan was such an
+            amazing experience. I got to try so many new things and meet so many
+            awesome people. It also opened up my eyes to a career that I never
+            really considered. I learned so much about the culture, the
+            language, and as well, I was able to grow heaps and bounds both
+            professionally and personally.</p>
+          <img src="images/water.jpg">
+          <p>Not only did I get to try a lot of things I wouldn't have even
+            thought I would ever try, but I was also able to meet other
+            individuals from all over the world who were also doing an exchange
+            project in Taiwan. During the weekends, we would travel all around
+            Taiwan exploring and sightseeing. The highlight of my trip was when
+            we took a ferry to a nearby Taiwanese island named 小琉球 (XiaoLiuQui).
+            During this 3 day trip, we went scuba diving, hiking through
+            mountainous areas, and really bonded as friends. Even though we had
+            only known each other for such a short period of time, it felt like
+            we had known each other for many years.</p>
+          <img src="images/host%20family.jpg">
+          <p>During my time in Taiwan, I also stayed with a host family. From
+            the first day I arrived, everyone was so kind and caring and it felt
+            like they were actually my family. They even bought me a birthday
+            cake to celebrate me turning 19 while I was there. The first couple
+            of weeks of my exchange, they took me out on weekends to go
+            sightseeing and to Tainan city's famous night markets where one
+            could purchase many different types of tradition Taiwanese foods
+            such as Taiwanese chicken steaks, stinky tofu, and their delicious
+            beef noodle bowls. In addition, there was also many places you could
+            shop at, meaning there was something for everyone. </p>
+          <blockquote>
+            <p style="height: 12px;">If you're thinking about going on an
+              exchange, just do it because you never know what kind of
+              friendships you will make and what kind of things you will learn</p>
+          </blockquote>
+        </article>
+        <!-- Katherine-->
+        <article id="katherine">
+          <h2 class="major">Katherine's Story</h2>
+          <span class="image main"><img src="images/west%20asia.jpg"></span>
+          <p>It wasn’t that hard for me to adjust to Taiwan. However, I did need
+            some time to adapt to the new environment. It ranged from big things
+            such as seeing all the signs in Chinese, needing to speak Mandarin,
+            and trying to find my way around the city to small things such as
+            drinking a lot more tea whenever I went out with friends</p>
+          <p>I found it useful to ground myself to something. For instance, The
+            teachers at Jee An Elementary School are welcoming and friendly.
+            They always made sure that I am well taken care of and helped me a
+            lot along the way. Therefore, it was easy to make friends and feel
+            comfortable around them. As well, I love children. I found them very
+            cute, especially the preschoolers. Whenever they see me, they would
+            yell out my name to greet me, despite the fact that I am half way
+            across the school. They are extremely sweet so they brighten my day.</p>
+          <img src="images/katherine.jpg">
+          <p>Also, I maintained contact with my family and friends in Vancouver,
+            basically the people who I can talk just about everything with. It
+            helped that the local LC, AIESEC CKLC (National Cheng Kung
+            University) took great care in helping me to adjust to Taiwan. They
+            had arranged a welcoming party for me and a new Exchange Participant
+            from Brazil, Fabi. They also arranged different events throughout
+            the three months period so that we were able to keep in touch, such
+            as going to see a movie. For anyone thinking of going on exchange, I
+            my advice would just to be open-minded. There are always things that
+            didn’t turn out the way I wanted. However, I wasn’t here to get
+            pampered, I was there to experience something different. Therefore,
+            I didn’t let the disappointments get in my way too much.</p>
+          <img src="images/party.jpg">
+          <p>On exchange, I was able do things I have never done before. For
+            instance, because Madou, the place where I was staying at, is in a
+            small town, I was able to go to the field and pick oranges. As well,
+            I was able to create a picture using real flowers and leaves—the
+            Flower Art.</p>
+          <p>During my free time, I did a bit of travelling with friends and
+            experienced the Taiwanese culture. The highlight of my trip is
+            visiting Tainan. It is one of the oldest cities in Taiwan. Little is
+            known before the Dutch came to Taiwan during the 1600. However, the
+            Dutch occupied it for only about twenty years before the Chinese
+            came and banished them off. After, during the end of the 1800, the
+            Japanese took over Taiwan and had stayed for almost fifty years. As
+            a result, Taiwan’s architectures are influenced those by the Dutch,
+            Chinese, and the Japanese. Particularly in Tainan, there were a lot
+            of historical monuments around the city. I was able to go around
+            Tainan and got to learn about the history and geographic of the
+            place and henceforth, Taiwan.</p>
+          <p>For those who are still deciding, I really recommend going on a
+            exchange. You get to meet different people, do things you never
+            thought you will ever do, and pick up a new language along the way.
+          </p>
+        </article>
+        <div>
+          <ul class="icons">
+            <li><br>
+            </li>
+            <li><a href="#" class="icon fa-home"><span class="label">home</span></a><br>
+            </li>
+            <li><br>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <!-- Footer -->
+      <footer id="footer">
+        <p class="copyright">© AIESEC Adventures Design: <a href="https://html5up.net">HTML5
+            UP</a>.</p>
+      </footer>
+    </div>
+    <!-- BG -->
+    <div id="bg"></div>
+    <!-- Scripts -->
+    <script src="assets/js/jquery1.min.js"></script>
+    <script src="assets/js/skel1.min.js"></script>
+    <script src="assets/js/util1.js"></script>
+    <script src="assets/js/main1.js"></script>
+  </body>
+</html>
